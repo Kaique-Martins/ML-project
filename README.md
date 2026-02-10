@@ -22,7 +22,7 @@ Este repositório fornece um scaffold para um projeto de Machine Learning usando
 
 **1) Instalação rápida (venv, PowerShell)**
 ```powershell
-cd C:\Users\kaique.santos\Downloads\projeto
+cd C:\Users\USER\Downloads\projeto
 python -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 . .venv\Scripts\Activate.ps1
@@ -95,4 +95,5 @@ Se quiser, eu posso:
 - ajustar o `Dockerfile` para suportar builds de GPU.
 
 ---
+
 Arquivo atual: [README.md](README.md)
